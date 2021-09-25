@@ -16,3 +16,7 @@ html, body {
 .ln {
   border: 1px solid #424242;
 }
+
+.some-other-class {
+  color: blue;
+}
